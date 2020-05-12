@@ -18,7 +18,7 @@ The first table describes the elements of the top hand pane. The sections of the
 |<i class="fa fa-fw fa-terminal"></i><span class="ml-1 badge badge-pill badge-info">2</span>|unanswered input requests - clicking this button will direct you to the list of unanswered input requests, where you can provide responses to the requests.|  
 |<i class="fa fa-fw fa-envelope-o"></i><span class="ml-1 badge badge-pill badge-danger">3</span>|new error messages - clicking this button will direct you to your messages, where you can acknowledge new message. Note that you are only notified of new error messages here, any other type of message (information or success) does not lead to a notification in the top pane.|  
 |<i class="fa fa-user"></i><span class="ml-1 d-none d-sm-inline-block">username</span>| your user name - if you click this button, you will be directed to your user record|  
-|<span class="ml-1 text-warning"><i class="fa fa-vcard-o"></i></span>| you are logged in as a client administrator |
+|<span class="ml-1 text-warning"><i class="fa fa-vcard-o"></i></span>| you are logged in as a workspace administrator |
 |<span class="ml-1 text-danger"><i class="fa fa-vcard"></i></span>| you are logged in as a system administrator |
 |<i class="fa fa-fw fa-sign-out"></i>| log out|
 
