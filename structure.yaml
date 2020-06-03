@@ -1,41 +1,8 @@
 pages:
 - name: Documentation
-  pages:
-  - name: Getting started
-    pages:
-    - name: Signing up
-    - name: Quick start
-    - name: First steps
-    - name: Tutorial
-    - name: Frequently Asked Questions
-  - name: Reference
-    pages:
-    - name: Flow script function reference
-    - name: Tasks
-    - name: API explorer
-      link: /swagger/index.html?url=/api/2/openapi.json
-      page: explorer
-  - name: Knowledge base
-    pages:
-    - name: Authentication
-    - name: Examples
-      pages:
-      - name: REST and INPUT example
-      - name: Loop example
-      - name: Interaction with Github
-    - name: Executions
-    - name: File handling with Cloudomation
-    - name: Flows
-    - name: Manipulating resources
-    - name: Migration
-      pages:
-      -  name: API migration
-    - name: Running flow scripts remotely
-    - name: Settings
-    - name: Tips and tricks for writing flow scripts
-    - name: Token
-    - name: Trial
-    - name: User interface
-    - name: User roles
-    - name: Using flow scripts from git
-    - name: Webhooks
+  link: https://cloudomation.com/documentation/
+- name: Flow script function reference
+- name: Tasks
+- name: API explorer
+  link: /swagger/index.html?url=/api/2/openapi.json
+
